@@ -1,0 +1,8 @@
+URL: https://books.toscrape.com/robots.txt
+Checked at: 2026-11-10T05:39:09+00:00
+HTTP status: 404
+date: Tue, 10 Nov 2026 05:39:09 GMT
+content-type: text/html
+content-length: 153
+connection: keep-alive
+strict-transport-security: max-age=0; includeSubDomains; preload

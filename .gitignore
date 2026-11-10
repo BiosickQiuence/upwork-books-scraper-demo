@@ -1,0 +1,29 @@
+# Environments and tooling
+.venv/
+venv/
+.tooling/
+.python/
+node_modules
+.env
+.env.*
+# Caches
+__pycache__/
+*.pyc
+.pytest_cache/
+.pytest_tmp/
+.mplconfig/
+.cache/
+.mypy_cache/
+.ruff_cache/
+# Docker volumes
+pgdata/
+docker_data/
+# Internal build notes and logs
+codex.log
+*.log
+TASK.md
+RESULT.md
+output/install_log.txt
+output/playwright-install.txt
+# OS
+.DS_Store

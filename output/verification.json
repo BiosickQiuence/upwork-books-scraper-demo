@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "unique_rows": 1000,
+  "listing_pages": 50,
+  "detail_pages": 1000,
+  "categories": 50,
+  "csv_xlsx_all_cells_match": true,
+  "category_summaries_match": true,
+  "workbook_formatting_passed": true,
+  "image_dimensions": [
+    1600,
+    1100
+  ],
+  "empty_descriptions": 2,
+  "price_min_gbp": 10.0,
+  "price_max_gbp": 59.99,
+  "sha256": {
+    "output/books.csv": "af044a48d4bb8a31bf632658cd7f95d0d764e042d4c45e7ef0911cc982e74dc8",
+    "output/books.xlsx": "f43b18884bf71649a926eea669f1b19c6a9082cb86b3c707dc8db57741ce1532",
+    "output/run_log.txt": "4aac3036600e044e82229ad902d8c0f500dea36f1dcc33cd5330c7686c8f36b1",
+    "output/run_summary.json": "2908e79003c1ba17192ce0e2205ecfbe32f70eafee6e57a06309c378dc6d7436",
+    "output/pytest.txt": "6adf8616d6f22212789078ee5b1bdcca8c9604195c4f3d41ffeff224342b8391",
+    "tests/fixtures/listing.html": "badda4a626611ba216a36120a8a333e484031dbc4d3aa72599b1d9e75bd2cf64",
+    "tests/fixtures/detail.html": "a6e572bec156bf80ff3149b89b6d218cdcf8866ccc26ccf69a5431db8e142c6a",
+    "portfolio_images/01_table_preview.png": "6e420624921da99fb1f819c7028c731b2b8e87d5bafce02b24b36c38755d1389",
+    "portfolio_images/02_summary_chart.png": "b99b28fa15beb01a4d3283761a28a54a3c86cdea0eb625ce113b7103ef1a0641",
+    "portfolio_images/03_run_log.png": "2846b46d35041ca61418ae5b8d7f57102947d5e153f2f8c2b80ec7187f4b293d"
+  }
+}

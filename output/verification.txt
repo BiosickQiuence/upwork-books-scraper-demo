@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "unique_rows": 1000,
+  "listing_pages": 50,
+  "detail_pages": 1000,
+  "categories": 50,
+  "csv_xlsx_all_cells_match": true,
+  "category_summaries_match": true,
+  "workbook_formatting_passed": true,
+  "image_dimensions": [
+    1600,
+    1100
+  ],
+  "empty_descriptions": 2,
+  "price_min_gbp": 10.0,
+  "price_max_gbp": 59.99
+}

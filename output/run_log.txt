@@ -1,0 +1,80 @@
+2026-11-10T05:39:07Z INFO START 2026-11-10T05:39:07+00:00; delay=0.40s; concurrency=3; max_pages=all
+2026-11-10T05:39:09Z INFO Robots check: HTTP 404: no published robots.txt rules.
+2026-11-10T05:39:10Z INFO Listing page 1: 20 books; https://books.toscrape.com/catalogue/page-1.html
+2026-11-10T05:39:11Z INFO Listing page 2: 20 books; https://books.toscrape.com/catalogue/page-2.html
+2026-11-10T05:39:11Z INFO Listing page 3: 20 books; https://books.toscrape.com/catalogue/page-3.html
+2026-11-10T05:39:12Z INFO Listing page 4: 20 books; https://books.toscrape.com/catalogue/page-4.html
+2026-11-10T05:39:13Z INFO Listing page 5: 20 books; https://books.toscrape.com/catalogue/page-5.html
+2026-11-10T05:39:14Z INFO Listing page 6: 20 books; https://books.toscrape.com/catalogue/page-6.html
+2026-11-10T05:39:14Z INFO Listing page 7: 20 books; https://books.toscrape.com/catalogue/page-7.html
+2026-11-10T05:39:15Z INFO Listing page 8: 20 books; https://books.toscrape.com/catalogue/page-8.html
+2026-11-10T05:39:15Z INFO Listing page 9: 20 books; https://books.toscrape.com/catalogue/page-9.html
+2026-11-10T05:39:16Z INFO Listing page 10: 20 books; https://books.toscrape.com/catalogue/page-10.html
+2026-11-10T05:39:16Z INFO Listing page 11: 20 books; https://books.toscrape.com/catalogue/page-11.html
+2026-11-10T05:39:17Z INFO Listing page 12: 20 books; https://books.toscrape.com/catalogue/page-12.html
+2026-11-10T05:39:18Z INFO Listing page 13: 20 books; https://books.toscrape.com/catalogue/page-13.html
+2026-11-10T05:39:18Z INFO Listing page 14: 20 books; https://books.toscrape.com/catalogue/page-14.html
+2026-11-10T05:39:19Z INFO Listing page 15: 20 books; https://books.toscrape.com/catalogue/page-15.html
+2026-11-10T05:39:20Z INFO Listing page 16: 20 books; https://books.toscrape.com/catalogue/page-16.html
+2026-11-10T05:39:20Z INFO Listing page 17: 20 books; https://books.toscrape.com/catalogue/page-17.html
+2026-11-10T05:39:21Z INFO Listing page 18: 20 books; https://books.toscrape.com/catalogue/page-18.html
+2026-11-10T05:39:22Z INFO Listing page 19: 20 books; https://books.toscrape.com/catalogue/page-19.html
+2026-11-10T05:39:22Z INFO Listing page 20: 20 books; https://books.toscrape.com/catalogue/page-20.html
+2026-11-10T05:39:23Z INFO Listing page 21: 20 books; https://books.toscrape.com/catalogue/page-21.html
+2026-11-10T05:39:23Z INFO Listing page 22: 20 books; https://books.toscrape.com/catalogue/page-22.html
+2026-11-10T05:39:24Z INFO Listing page 23: 20 books; https://books.toscrape.com/catalogue/page-23.html
+2026-11-10T05:39:25Z INFO Listing page 24: 20 books; https://books.toscrape.com/catalogue/page-24.html
+2026-11-10T05:39:25Z INFO Listing page 25: 20 books; https://books.toscrape.com/catalogue/page-25.html
+2026-11-10T05:39:26Z INFO Listing page 26: 20 books; https://books.toscrape.com/catalogue/page-26.html
+2026-11-10T05:39:26Z INFO Listing page 27: 20 books; https://books.toscrape.com/catalogue/page-27.html
+2026-11-10T05:39:27Z INFO Listing page 28: 20 books; https://books.toscrape.com/catalogue/page-28.html
+2026-11-10T05:39:28Z INFO Listing page 29: 20 books; https://books.toscrape.com/catalogue/page-29.html
+2026-11-10T05:39:28Z INFO Listing page 30: 20 books; https://books.toscrape.com/catalogue/page-30.html
+2026-11-10T05:39:29Z INFO Listing page 31: 20 books; https://books.toscrape.com/catalogue/page-31.html
+2026-11-10T05:39:30Z INFO Listing page 32: 20 books; https://books.toscrape.com/catalogue/page-32.html
+2026-11-10T05:39:30Z INFO Listing page 33: 20 books; https://books.toscrape.com/catalogue/page-33.html
+2026-11-10T05:39:31Z INFO Listing page 34: 20 books; https://books.toscrape.com/catalogue/page-34.html
+2026-11-10T05:39:32Z INFO Listing page 35: 20 books; https://books.toscrape.com/catalogue/page-35.html
+2026-11-10T05:39:33Z INFO Listing page 36: 20 books; https://books.toscrape.com/catalogue/page-36.html
+2026-11-10T05:39:33Z INFO Listing page 37: 20 books; https://books.toscrape.com/catalogue/page-37.html
+2026-11-10T05:39:34Z INFO Listing page 38: 20 books; https://books.toscrape.com/catalogue/page-38.html
+2026-11-10T05:39:35Z INFO Listing page 39: 20 books; https://books.toscrape.com/catalogue/page-39.html
+2026-11-10T05:39:36Z INFO Listing page 40: 20 books; https://books.toscrape.com/catalogue/page-40.html
+2026-11-10T05:39:37Z INFO Listing page 41: 20 books; https://books.toscrape.com/catalogue/page-41.html
+2026-11-10T05:39:37Z INFO Listing page 42: 20 books; https://books.toscrape.com/catalogue/page-42.html
+2026-11-10T05:39:38Z INFO Listing page 43: 20 books; https://books.toscrape.com/catalogue/page-43.html
+2026-11-10T05:39:39Z INFO Listing page 44: 20 books; https://books.toscrape.com/catalogue/page-44.html
+2026-11-10T05:39:39Z INFO Listing page 45: 20 books; https://books.toscrape.com/catalogue/page-45.html
+2026-11-10T05:39:40Z INFO Listing page 46: 20 books; https://books.toscrape.com/catalogue/page-46.html
+2026-11-10T05:39:41Z INFO Listing page 47: 20 books; https://books.toscrape.com/catalogue/page-47.html
+2026-11-10T05:39:41Z INFO Listing page 48: 20 books; https://books.toscrape.com/catalogue/page-48.html
+2026-11-10T05:39:42Z INFO Listing page 49: 20 books; https://books.toscrape.com/catalogue/page-49.html
+2026-11-10T05:39:43Z INFO Listing page 50: 20 books; https://books.toscrape.com/catalogue/page-50.html
+2026-11-10T05:40:04Z INFO Detail progress: 50/1000
+2026-11-10T05:40:24Z INFO Detail progress: 100/1000
+2026-11-10T05:40:44Z INFO Detail progress: 150/1000
+2026-11-10T05:41:05Z INFO Detail progress: 200/1000
+2026-11-10T05:41:26Z INFO Detail progress: 250/1000
+2026-11-10T05:41:47Z INFO Detail progress: 300/1000
+2026-11-10T05:42:08Z INFO Detail progress: 350/1000
+2026-11-10T05:42:29Z INFO Detail progress: 400/1000
+2026-11-10T05:42:51Z INFO Detail progress: 450/1000
+2026-11-10T05:43:13Z INFO Detail progress: 500/1000
+2026-11-10T05:43:34Z INFO Detail progress: 550/1000
+2026-11-10T05:43:56Z INFO Detail progress: 600/1000
+2026-11-10T05:44:16Z INFO Detail progress: 650/1000
+2026-11-10T05:44:39Z INFO Detail progress: 700/1000
+2026-11-10T05:44:59Z INFO Detail progress: 750/1000
+2026-11-10T05:45:20Z INFO Detail progress: 800/1000
+2026-11-10T05:45:41Z INFO Detail progress: 850/1000
+2026-11-10T05:46:01Z INFO Detail progress: 900/1000
+2026-11-10T05:46:22Z INFO Detail progress: 950/1000
+2026-11-10T05:46:42Z INFO Detail progress: 1000/1000
+2026-11-10T05:46:43Z INFO END 2026-11-10T05:46:43+00:00; status=success
+2026-11-10T05:46:43Z INFO RUN SUMMARY
+2026-11-10T05:46:43Z INFO Listing pages fetched: 50
+2026-11-10T05:46:43Z INFO Detail pages fetched: 1000
+2026-11-10T05:46:43Z INFO Unique rows: 1000
+2026-11-10T05:46:43Z INFO Duplicates removed (UPC): 0
+2026-11-10T05:46:43Z INFO Retries: 0; Errors: 0
+2026-11-10T05:46:43Z INFO Duration: 456.630 seconds
